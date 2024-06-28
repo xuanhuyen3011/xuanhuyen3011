@@ -2,13 +2,17 @@
 
 # Welcome to My GitHub Profile 👋
 
-Hello! I'm Huyen Nguyen 😊, and I am interested in the transformative power of data. My passion for data analytics and data engineering drives me to uncover insights and build robust data solutions empowering decision-making and drive business success. With a background in technical recruitment, I bring a unique perspective to the table, combining technical expertise with a keen understanding of people and organizational needs.
+Hello! I'm Huyen Nguyen 😊  
 
-## 🌏 My Journey
+## 🌏 About me
 
 - 🎓 **Education**: Master's in Information Technology, University of Wollongong
-- 💼 **About me**: Former recruiter turned data enthusiast
-- 🔍 **Interests**: Data Analytics, Data Engineering, and everything in between
+- 💼 **Background**: Former recruiter turned data enthusiast
+- 🔥 **Passionate** about data analytics and engineering
+- 🧭 **Interests**: Data Analytics, Data Engineering, and everything in between
+- 🎯 **Goal**: Uncover insights and build robust data solutions
+- 🔎 **Focus**: Empower decision-making and drive business successt
+- 🔭 **Unique perspective**: Blend of technical skills and understanding of people/organizations
 
 ## 🚀 Skill sets
 
