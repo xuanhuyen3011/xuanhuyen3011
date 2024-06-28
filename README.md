@@ -24,6 +24,7 @@ Hello! I'm Huyen Nguyen 😊
 
 #### Databases/Data warehouses
 
+![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![1](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![2](https://img.shields.io/badge/Apache%20Hive-FDEE21.svg?style=for-the-badge&logo=Apache-Hive&logoColor=black)
 ![3](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
