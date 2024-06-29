@@ -6,12 +6,12 @@ Hello! I'm Huyen Nguyen 😊
 
 ## 🌏 About me
 
-- 🎓 **Education**: Master's in Information Technology, University of Wollongong
-- 💼 **Background**: Former recruiter turned data enthusiast
-- 🧭 **Interests**: Data Analytics, Data Engineering, and everything in between
-- 🎯 **Goal**: Uncover insights and build robust data solutions
-- 🔎 **Focus**: Empower decision-making and drive business successt
-- 🔭 **Unique perspective**: Blend of technical skills and understanding of people/organizations
+- 🎓 **Education**: Master's in Information Technology, University of Wollongong.
+- 💼 **Background**: Former recruiter turned data enthusiast.
+- 🧭 **Interests**: Data Analytics, Data Engineering, and everything in between.
+- 🎯 **Goal**: Uncover insights and build robust data solutions.
+- 🔎 **Focus**: Empower decision-making and drive business success.
+- 🔭 **Unique perspective**: Blend of technical skills and understanding of people/organizations.
 
 ## 🚀 Skill sets
 
